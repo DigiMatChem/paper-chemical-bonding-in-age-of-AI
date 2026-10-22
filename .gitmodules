@@ -1,0 +1,3 @@
+[submodule "MACE_Allegro_LOBSTER_Analysis"]
+	path = MACE_Allegro_LOBSTER_Analysis
+	url = git@github.com:Mofahdi/MACE_Allegro_LOBSTER_Analysis.git
