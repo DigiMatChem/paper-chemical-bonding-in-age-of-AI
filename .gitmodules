@@ -1,3 +1,6 @@
 [submodule "MACE_Allegro_LOBSTER_Analysis"]
 	path = MACE_Allegro_LOBSTER_Analysis
 	url = git@github.com:Mofahdi/MACE_Allegro_LOBSTER_Analysis.git
+[submodule "ESF-MEGNet-Framework"]
+	path = ESF-MEGNet-Framework
+	url = git@github.com:Mofahdi/ESF-MEGNet-Framework.git
